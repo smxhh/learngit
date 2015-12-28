@@ -1,9 +1,7 @@
 
 # learngit
 git is a good tool
-create a new branch--dev And simple.
-<<<<<<< Updated upstream
+create a new branch--dev And simplpdated upstream
 hehehehehe
-=======
 enenenenen
->>>>>>> Stashed changes
+
