@@ -1,3 +1,3 @@
 # learngit
 git is a good tool
-create a new branch--dev
+create a new branch--dev $ simple.
